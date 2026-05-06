@@ -33,10 +33,4 @@ Philos was built with deep consideration for the ethical risks of AI in educatio
 * **AI Integration:** Anthropic Claude API (`claude-3-5-sonnet-20240620`)
 * **Architecture:** Context-aware prompt engineering, dynamic text resolution, and custom JSON schema enforcement.
 
-## 🛠️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/hbilici-droid/Philos.git](https://github.com/hbilici-droid/Philos.git)
-
    
